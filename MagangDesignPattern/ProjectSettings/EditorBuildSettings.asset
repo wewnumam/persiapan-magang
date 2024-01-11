@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/06_MVC/AgateMVC/Scenes/Home.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/06_MVC/AgateMVC/Scenes/Gameplay.unity
+    guid: af68d829ef763c34dba7ea65ecb94c06
+  - enabled: 1
+    path: Assets/06_MVC/AgateMVC/Scenes/SplashScreen.unity
+    guid: 0306ac62487a2dc40a15a44b367eecfb
   m_configObjects: {}
